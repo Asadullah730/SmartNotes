@@ -70,6 +70,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.0"
+  flutter_responsive_ui_plus:
+    dependency: "direct main"
+    description:
+      name: flutter_responsive_ui_plus
+      sha256: cf0c26a49ec7ac8101da7510846008b59258891bc8266ad2ab8d2fcbcadfdd31
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
